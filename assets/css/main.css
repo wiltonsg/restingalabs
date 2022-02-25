@@ -1811,8 +1811,8 @@ input, select, textarea {
 		input[type="reset"].style4,
 		button.style4,
 		.button.style4{
-			color: #3a3939;
-			background: #fff;
+			color: #fff;
+			background: #35b88f;
 			box-shadow: inset 0 0 0 1px #fff;
 		}
 
@@ -1822,7 +1822,7 @@ input, select, textarea {
 			button.style4:hover,
 			.button.style4:hover {
 				background: rgba(255, 255, 255, 0.1);
-				color: #fff !important;
+				color: #35b88f !important;
 				text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25) !important;
 			}
 
