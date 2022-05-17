@@ -2,8 +2,8 @@
 
 print('Entre com os valores de consumo mensais')
 
-m1 = int(input('Mẽs 1: '))
-m2 = int(input('Mẽs 2: '))
+m1 = int(input('Mês 1: '))
+m2 = int(input('Mês 2: '))
 m3 = int(input('Mês 3: '))
 m4 = int(input('Mês 4: '))
 m5 = int(input('Mês 5: '))
