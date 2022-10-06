@@ -209,7 +209,7 @@ input, select, textarea {
 		}
 
 	footer {
-		margin-top: 1em;
+		margin-top: 0;
 	}
 
 	br.clear {
@@ -2663,4 +2663,22 @@ input, select, textarea {
 				opacity: 0.5;
 			}
 
+		/* Voltar */
+
+			.voltar {
+		position: center;
+		margin-top: 9em;
+		margin-bottom: 0;
+				padding: 3em 2em 3em 2em;
+				background-size: auto 150%;
+			}
+
+				/* #voltar header {
+					margin: 0 0 1em 0;
+				}
+
+					#voltar header h2 {
+						font-size: 1.5em;
+						letter-spacing: 0px;
+					} */
 	}
