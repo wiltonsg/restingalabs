@@ -4,3 +4,4 @@ Disallow: /images/icones
 Allow: /js/
 Allow: /css/
 Sitemap: /sitemap.xml
+Sitemap: /sitemap.txt
